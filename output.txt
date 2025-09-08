@@ -1,4 +1,4 @@
-# Sample Output for control_structures.java
+## Sample Output for control_structures.java
 
 1) Pyramid of Prime Numbers:
 2 
