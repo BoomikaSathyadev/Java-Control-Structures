@@ -15,7 +15,5 @@ A collection of Java programs practicing **control structures** like loops, cond
 
 ## How to Run
 ```bash
-git clone https://github.com/your-username/control-structures.git
-cd control-structures
-javac ControlStructures.java
-java ControlStructures
+javac control_structures.java
+java control_structures
